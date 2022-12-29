@@ -38,12 +38,12 @@ If I have spare time, I would like to do following works.
 
 ### Screenshot
 
-![screenshot](./screenshot.png)
+![screenshot](screenshot.png)
 
 ### Links
 
-- Solution URL: [@GitHub](https://github.com/)
-- Live Site URL: [@GitHub](https://htmlpreview.github.io/)
+- Solution URL: [@GitHub](https://github.com/jchung7v/Random-Password-Generator.git)
+- Live Site URL: [@GitHub](https://htmlpreview.github.io/?https://github.com/jchung7v/Random-Password-Generator/blob/main/index.html)
 
 ### Built with
 
