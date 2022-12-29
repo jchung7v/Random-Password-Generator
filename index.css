@@ -1,0 +1,116 @@
+/* ---------------------- */
+/* Font                   */
+/* ---------------------- */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Karla:wght@800&display=swap");
+
+/* ---------------------- */
+/* Reset                  */
+/* ---------------------- */
+
+* {
+    box-sizing: border-box;
+}
+
+/* ---------------------- */
+/* Typography             */
+/* ---------------------- */
+
+body {
+    font-family: "Inter", sans-serif;
+    color: #fff;
+    background-color: #1C1C1C;
+}
+
+h1 {
+    font-family: "Karla", sans-serif;
+    font-weight: 800;
+    font-size: 2.2rem;
+    margin-bottom: 0;
+}
+
+.title-green {
+    color: #4ADF86;
+
+}
+
+h2 {
+    color: #D5D4D8;
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin-bottom: 45px;
+}
+
+p {
+    color: #D5D4D8;
+}
+
+/* ---------------------- */
+/* Components              */
+/* ---------------------- */
+
+.container {
+    width: 550px;
+    height: 550px;
+    background-color: #1F2937;
+    padding: 52px 52px 100px 52px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.password-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#password01-el, #password02-el {
+    width: 211px;
+    height: 39px;
+    background-color: #273549;
+    color: #55F991;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+}
+
+/* ---------------------- */
+/* Button                 */
+/* ---------------------- */
+
+#password-length {
+    width: 100px;
+    height: 42px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+
+#generator-btn {
+    width: 191px;
+    height: 42px;
+    font-size: 1rem;
+    background-color: #10B981;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#generator-btn:hover {
+    background-color: #fff;
+    color: #10B981;
+}
+
+/* ---------------------- */
+/* Line                   */
+/* ---------------------- */
+
+.line {
+    border: none;
+    background-color:#2F3E53;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
