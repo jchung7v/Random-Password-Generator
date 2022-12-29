@@ -38,7 +38,7 @@ If I have spare time, I would like to do following works.
 
 ### Screenshot
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/jchung7v/Random-Password-Generator/blob/main/Screenshot.png)
 
 ### Links
 
